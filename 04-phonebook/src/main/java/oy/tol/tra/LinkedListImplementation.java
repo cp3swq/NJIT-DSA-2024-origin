@@ -1,3 +1,4 @@
+
 package oy.tol.tra;
 
 public class LinkedListImplementation<E> implements LinkedListInterface<E> {
